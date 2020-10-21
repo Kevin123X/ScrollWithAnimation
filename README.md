@@ -1,2 +1,24 @@
-# ScrollWithAnimation
-vue+animate.css 实现类似wowjs滚动加载动画效果的自定义指令 v-scroll-animate
+# scrollwithanimate
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
